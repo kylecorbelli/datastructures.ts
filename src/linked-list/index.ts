@@ -28,3 +28,5 @@ export default class LinkedList {
     this[type] = node instanceof LinkedList ? node : null
   }
 }
+
+// foo
